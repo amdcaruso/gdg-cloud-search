@@ -5,7 +5,7 @@ description: >-
   conversations.
 ---
 
-# Why is DialogFlow awesome?
+# DialogFlow
 
 The platform makes the **bot** creation process **easier.** They are accessible, responsive to different platforms, they can be easily integrated to a number of channels.
 
